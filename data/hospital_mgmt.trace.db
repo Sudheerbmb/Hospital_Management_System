@@ -1,0 +1,4 @@
+2024-11-22 22:16:13.577778+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENT" not found; SQL statement:
+select * from DEPARTMENT
+_ENTITY [42102-224]
